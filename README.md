@@ -3,7 +3,7 @@ My own software engineer public profile website. A little bit about me. I usuall
 
 - [gist](https://github.com/williamlagos/gist): simple application for reading and commenting gists
 - [pomodorino](https://github.com/williamlagos/pomodorino): time-tracking application
-- [coding](https://github.com/williamlagos/cofing): coding samples and challenges
+- [coding](https://github.com/williamlagos/coding): coding samples and challenges
 - [landing](https://github.com/williamlagos/landing): landing page lead capture project written in gatsby / strapi
 - [events](https://github.com/williamlagos/events): events application written in ionic / django
 - [delivery](https://github.com/williamlagos/delivery): delivery application written in ionic / django
