@@ -2,7 +2,7 @@
 My own software engineer public profile website. A little bit about me. I usually worked as a Web Developer in Brazil for this first 10 years of software engineering, but for now I'm researching more about other areas (Mobile Development and Data Science) and looking for new challenges abroad. For more information, check out my [portfolio](https://williamlagos.github.io/). Feel free to contact me by [email](mailto:william.lagos@icloud.com) or [twitter](https://twitter.com/lagoswilliam). This README is a Work In Progress, so here some of my projects that I've been worked:
 
 - [gist](https://github.com/williamlagos/gist): simple application for reading and commenting gists
-- [pomodorino](https://github.com/williamlagos/pomodorino): time-tracking application
+- [pomodorino](https://github.com/heidimichel/pomodorino): time-tracking application
 - [coding](https://github.com/williamlagos/coding): coding samples and challenges
 - [landing](https://github.com/williamlagos/landing): landing page lead capture project written in gatsby / strapi
 - [events](https://github.com/williamlagos/events): events application written in ionic / django
