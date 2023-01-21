@@ -10,12 +10,7 @@ My own software engineer public profile website. A little bit about me. I usuall
 - [shipping](https://github.com/williamlagos/shipping): shipping application written in ionic / nodejs
 - [parts](https://github.com/williamlagos/parts): web components library written in stenciljs
 - [isomorphic](https://github.com/williamlagos/isomorphic): project template for universal javascript apps
-- [django-dashboarder](https://github.com/williamlagos/django-dashboarder): django package to customize dashboard
-- [django-socialize](https://github.com/williamlagos/django-socialize): django package for social accounts integration
-- [django-shipping](https://github.com/williamlagos/django-shipping): django package for shipping order providers
-- [django-plethora](https://github.com/williamlagos/django-plethora): django package for content and images handling
-- [django-emporio](https://github.com/williamlagos/django-emporio): django package for e-commerce handling
-- [django-feedly](https://github.com/williamlagos/django-feedly): django package for building feed blocks
+- [django-dashboarder](https://github.com/williamlagos/django-dashboarder), [django-socialize](https://github.com/williamlagos/django-socialize), [django-shipping](https://github.com/williamlagos/django-shipping), [django-plethora](https://github.com/williamlagos/django-plethora), [django-emporio](https://github.com/williamlagos/django-emporio), [django-feedly](https://github.com/williamlagos/django-feedly): as django packages
 - [contents](https://github.com/williamlagos/contents): headless cms with e-commerce platform, written in django
 - [libsockets](https://github.com/williamlagos/libsockets): simple integration with unix / berkley sockets
 - [elements](https://github.com/williamlagos/elements): agnostic game engine for creating characters and its properties
