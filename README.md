@@ -7,13 +7,11 @@ My own software engineer public profile website. A little bit about me. I usuall
 - [events](https://github.com/williamlagos/events): events application written in ionic / django
 - [delivery](https://github.com/williamlagos/delivery): delivery application written in ionic / django
 - [shipping](https://github.com/williamlagos/shipping): shipping application written in ionic / nodejs
-- [isomorphic](https://github.com/williamlagos/isomorphic): project template for universal javascript apps
 - [parts](https://github.com/williamlagos/parts): web components library written in stenciljs
 
 ## Websites and Content Management Systems
 - [landing](https://github.com/williamlagos/landing): landing page lead capture project written in gatsby / strapi
-- [contents](https://github.com/williamlagos/contents): headless cms with e-commerce platform, written in django
-- [dashboarder](https://github.com/williamlagos/django-dashboarder), [socialize](https://github.com/williamlagos/django-socialize), [shipping](https://github.com/williamlagos/django-shipping), [plethora](https://github.com/williamlagos/django-plethora), [emporio](https://github.com/williamlagos/django-emporio), [feedly](https://github.com/williamlagos/django-feedly): django packages derived from contents main repo work
+- [contents](https://github.com/williamlagos/contents): headless cms with e-commerce platform, written in python
 
 ## Miscellaneous
 - [coding](https://github.com/williamlagos/coding): coding samples and challenges
