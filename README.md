@@ -8,8 +8,6 @@ My own software engineer public profile website. A little bit about me. I usuall
 - [delivery](https://github.com/williamlagos/delivery): delivery application written in ionic / django
 - [shipping](https://github.com/williamlagos/shipping): shipping application written in ionic / nodejs
 - [parts](https://github.com/williamlagos/parts): web components library written in stenciljs
-
-## Websites and Content Management Systems
 - [landing](https://github.com/williamlagos/landing): landing page lead capture project written in gatsby / strapi
 - [contents](https://github.com/williamlagos/contents): headless cms with e-commerce platform, written in python
 
