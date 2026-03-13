@@ -23,21 +23,24 @@ For more information, check out my [portfolio](https://williamlagos.github.io/).
 
 ## Django Packages (App Backends)
 Reusable Django apps and starters I’m consolidating into a coherent backend ecosystem:
-- [django-starter](https://github.com/williamlagos/django-starter) — Cloud boilerplate with Django
+- [django-starter](https://github.com/williamlagos/django-starter) — Cloud boilerplate with Django *(merge candidate)*
 - [django-shipping](https://github.com/williamlagos/django-shipping) — Shipping options for e-commerce
 - [django-dashboarder](https://github.com/williamlagos/django-dashboarder) — Enhanced Django admin UI
 - [django-plethora](https://github.com/williamlagos/django-plethora) — Content management engine *(merge candidate)*
-- [django-socialize](https://github.com/williamlagos/django-socialize) — Social requests on Django *(merge candidate)*
-- [django-feedly](https://github.com/williamlagos/django-feedly) — Grid feeds w/ social integration *(merge candidate)*
-
+- [django-socialize](https://github.com/williamlagos/django-socialize) — Social requests on Django 
+- [django-feedly](https://github.com/williamlagos/django-feedly) — Grid feeds w/ social integration
+  
 ## Platform / Infrastructure (Docker + IoT legacy → reusable platform)
 - [eos](https://github.com/williamlagos/eos) — Linux-based OS utilities, scripts, and Docker image customizations *(active / platform support)*
+- [synapse](https://github/williamlagos/synapse) - libuv-based smart event/process manager
+- [libsockets](https://github.com/williamlagos/libsockets) — Unix/Berkeley sockets integration examples
 
 ## Game Development
-- [elements](https://github.com/williamlagos/elements) — agnostic game engine experiments for characters and properties *(active / rebooting)*
+- [elements](https://github.com/williamlagos/elements) — agnostic game experiments for characters and properties *(active / rebooting)*
+- [elements](https://github.com/williamlagos/elements-engine) — agnostic game engine experiments for characters and properties *(legacy / rebooting)*
+- [elements-server](https://github.com/williamlagos/elements-server) — fastapi supporting multiplayer server *(legacy / rebooting)*
 - [dinamo](https://github.com/williamlagos/dinamo) — cocos2d-x game prototype *(legacy / may be archived or rewritten)*
 
 ## Practice / References / Experiments
 - [coding](https://github.com/williamlagos/coding) — coding samples and challenges
-- [libsockets](https://github.com/williamlagos/libsockets) — Unix/Berkeley sockets integration examples
 - [experiments](https://github.com/williamlagos/experiments) — Artificial intelligence experiments (LLMs, RAG, evaluation harnesses, prototypes)
